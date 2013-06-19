@@ -1,0 +1,5 @@
+.listing-index {margin-top:0; text-align:center;}
+.listing-index a {display:block; float:left; width:40px; margin-right:5px; padding:2px; background-color:#FFF; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; -moz-box-shadow:1px 1px 3px #CFCFCF; -webkit-box-shadow:1px 1px 3px #CFCFCF; box-shadow:1px 1px 3px #CFCFCF; text-decoration:none; text-align:center;}
+.listing-index a:hover {-moz-box-shadow:1px 1px 3px #9F9F9F; -webkit-box-shadow:1px 1px 3px #9F9F9F; box-shadow:1px 1px 3px #9F9F9F;}
+.listing-index a.active {background-color:#FF7F00; color:#FFF;}
+.listing-index span {display:block; float:left; padding-right:15px; line-height:25px;}
